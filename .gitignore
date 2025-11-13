@@ -35,3 +35,5 @@ anonchat-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Removing unnecesary reference .md files
+AGENTS.md
